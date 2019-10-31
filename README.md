@@ -13,3 +13,7 @@ https://github.com/SwiftGen/SwiftGen
 Script Build Phase: `$PODS_ROOT/SwiftGen/bin/swiftgen`
 
 Don't forget to change *ProjectName* into the name of the project. Don't forget to create required folders beforehand.
+
+## Main.swift
+
+The file needs be to added to the project. `@UIApplicationMain` should be deleted from `AppDelegate` definition.
