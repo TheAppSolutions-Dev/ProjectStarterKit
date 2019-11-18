@@ -9,3 +9,8 @@ xcassets:
   outputs:
     templateName: swift4
     output: ProjectName/Generated/Assets.swift
+fonts:
+  inputs: ProjectName/Resources/Fonts
+  outputs:
+    templateName: swift4
+    output: ProjectName/Generated/Fonts.swift
