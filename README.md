@@ -17,3 +17,8 @@ Don't forget to change *ProjectName* into the name of the project. Don't forget 
 ## Main.swift
 
 The file needs be to added to the project. `@UIApplicationMain` should be deleted from `AppDelegate` definition.
+
+
+## File Templates
+
+If it does not exist, copy "File Templates" folder in ~/Library/Developer/Xcode/Templates/
