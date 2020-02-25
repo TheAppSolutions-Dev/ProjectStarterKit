@@ -16,7 +16,7 @@ class ___FILEBASENAMEASIDENTIFIER___ {
 
     private weak var viewController: UIViewController?
 
-    // MARK: - Lifecycle -
+    // MARK: - Lifecycle
 
     init(with viewController: UIViewController?) {
         self.viewController = viewController
